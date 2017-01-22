@@ -1,7 +1,10 @@
-@import "components/buttons";
-
+// helpers
 @import "helpers/mixins";
 @import "helpers/placeholders";
 @import "helpers/variables";
 
+// components
+@import "components/buttons";
+
+// layout
 @import "layout/header";
